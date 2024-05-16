@@ -1,14 +1,14 @@
 # MachineLearning
-Dataset: [states.csv]
-Overview:
+## Dataset: [states.csv]
+## Overview:
 This dataset capture voting patterns and relationships between different states and various countries based on affinity scores. It provides valuable insights into state-level dynamics and international relations.. It has been processed, analyzed, and modeled using various machine learning techniques.
 
 # Contents:
-**affinity_score_comparison.html**: HTML file containing visualizations of affinity score comparisons.
-**MLCAC_032.html**: HTML file for the analysis notebook.
-**MLCAC_032.ipynb**: Jupyter Notebook containing the code for data visualization, cleaning, and modeling.
-**MLCAC_032.pdf**: PDF version of the analysis notebook.
-**states.csv**: CSV file containing the raw data.
+- **affinity_score_comparison.html**: HTML file containing visualizations of affinity score comparisons.
+- **MLCAC_032.html**: HTML file for the analysis notebook.
+- **MLCAC_032.ipynb**: Jupyter Notebook containing the code for data visualization, cleaning, and modeling.
+- **MLCAC_032.pdf**: PDF version of the analysis notebook.
+- **states.csv**: CSV file containing the raw data.
 # Data Preprocessing:
 **Data Cleaning**: The dataset underwent thorough cleaning to handle missing values, outliers, and inconsistencies.
 **Feature Engineering**: [Describe any feature engineering techniques applied, if applicable].
