@@ -6,10 +6,15 @@ This dataset capture voting patterns and relationships between different states 
 
 # Contents:
 - **affinity_score_comparison.html**: HTML file containing visualizations of affinity score comparisons.
+  
 - **MLCAC_032.html**: HTML file for the analysis notebook.
+  
 - **MLCAC_032.ipynb**: Jupyter Notebook containing the code for data visualization, cleaning, and modeling.
+  
 - **MLCAC_032.pdf**: PDF version of the analysis notebook.
+  
 - **states.csv**: CSV file containing the raw data.
+  
 # Data Preprocessing:
 **Data Cleaning**: The dataset underwent thorough cleaning to handle missing values, outliers, and inconsistencies.
 
