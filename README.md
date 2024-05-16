@@ -2,7 +2,7 @@
 ## Dataset: [states.csv]
 
 ## Overview:
-This dataset capture voting patterns and relationships between different states and various countries based on affinity scores. It provides valuable insights into state-level dynamics and international relations.. It has been processed, analyzed, and modeled using various machine learning techniques.
+This dataset documents all United Nations General Assembly votes since its establishment in 1946. The data is broken into three different files: the first lists each UN resolution, subject, and vote records; the second records individual member state votes per resolution; and the third provides an annual summary of member state voting records with affinity scores and an ideal point estimate in relation to the United States.
 
 # Contents:
 - **affinity_score_comparison.html**: HTML file containing visualizations of affinity score comparisons.
