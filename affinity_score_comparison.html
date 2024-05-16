@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mean Affinity Score Comparison of Countries</title>
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+</head>
+<body>
+
+<div id="container" style="width: 600px; height: 400px; margin: 0 auto"></div>
+
+<script>
+Highcharts.chart('container', {
+  chart: {
+    type: 'bar'
+  },
+  title: {
+    text: 'Mean Affinity Score Comparison of Countries'
+  },
+  xAxis: {
+    categories: ['USA', 'Russia', 'China', 'India', 'Brazil', 'Israel']
+  },
+  yAxis: {
+    title: {
+      text: 'Mean Affinity Score'
+    }
+  },
+  series: [{
+    name: 'Mean Affinity Score',
+    data: [0.29358908828382835, 0.620303931077177, 0.6659521023958656, 0.6873531043729373, 0.7338206373762376, 0.3505397496087637]
+  }]
+});
+</script>
+
+</body>
+</html>
