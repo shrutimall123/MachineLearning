@@ -12,10 +12,11 @@ This dataset capture voting patterns and relationships between different states 
 - **states.csv**: CSV file containing the raw data.
 # Data Preprocessing:
 **Data Cleaning**: The dataset underwent thorough cleaning to handle missing values, outliers, and inconsistencies.
-**Feature Engineering**: [Describe any feature engineering techniques applied, if applicable].
+
 # Data Visualization:
 Various visualizations were generated to understand the distribution, relationships, and patterns within the data.
 The affinity_score_comparison.html file contains visualizations specifically focused on comparing affinity scores.
+
 # Machine Learning Models:
 Several machine learning models were utilized to analyze the dataset:
 
